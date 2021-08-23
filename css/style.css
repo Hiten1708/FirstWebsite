@@ -13,12 +13,9 @@ body {
 }
 
 hr {
-  margin: 23px auto 10px;
-  width: 10%;
   border-style: none;
-  border-top: dotted;
-  border-width: 8px;
-  color: #000000;
+  border-top: dotted #4d5353 6px;
+  width: 4%;
 }
 
 h1 h3 {
